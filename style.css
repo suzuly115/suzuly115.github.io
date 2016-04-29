@@ -12,6 +12,7 @@ h1, h2{
   padding-top: 15px !important;
   padding-bottom: 15px !important;
   background-color: #FEFF80 !important;
+  border-radius: 40px !important;
 }
 .content{
   margin-left: 5%;
