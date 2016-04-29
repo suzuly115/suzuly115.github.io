@@ -4,5 +4,5 @@ body {
 }
 
 .jumbotron{
-  background-color: #cff4fd;
+  background-color: #cff4fd !important;
 }
