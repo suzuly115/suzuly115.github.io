@@ -8,7 +8,7 @@ h1, h2{
 }
 
 .top{
-  margin-top: 5%;
+  margin-top: 5% !important;
   padding-top: 15px !important;
   padding-bottom: 15px !important;
   background-color: #FEFF80 !important;
